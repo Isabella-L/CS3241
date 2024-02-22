@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  cubeview.cpp
+cubeview.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  cubeview.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\Debug\cubeview.exe

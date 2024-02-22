@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  cube.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L04_progs_exe\cube.cpp(96,22): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+cube.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  cube.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L04_progs_exe\Debug\cube.exe

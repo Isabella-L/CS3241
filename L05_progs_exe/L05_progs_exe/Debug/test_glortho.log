@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (cubeview.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test_glortho.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(17,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(17,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(17,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(18,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(18,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(19,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(19,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(19,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(21,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(21,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(22,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(22,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(23,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\test_glortho.cpp(23,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+test_glortho.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  test_glortho.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L05_progs_exe\L05_progs_exe\Debug\test_glortho.exe

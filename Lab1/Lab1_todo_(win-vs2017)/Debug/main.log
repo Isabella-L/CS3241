@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\main.cpp(93,21): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\main.cpp(104,13): warning C4244: 'initializing': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\main.cpp(105,13): warning C4244: 'initializing': conversion from 'const double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\main.cpp(111,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\main.cpp(110,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  main.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab1_todo_(win-vs2017)\Debug\main.exe

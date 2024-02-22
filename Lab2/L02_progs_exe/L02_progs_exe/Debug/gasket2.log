@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gasket.vcxproj, simple.vcxproj, simple2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  gasket2.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L02_progs_exe\L02_progs_exe\gasket2.cpp(16,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L02_progs_exe\L02_progs_exe\gasket2.cpp(16,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L02_progs_exe\L02_progs_exe\gasket2.cpp(16,53): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+gasket2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  gasket2.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\L02_progs_exe\L02_progs_exe\Debug\gasket2.exe

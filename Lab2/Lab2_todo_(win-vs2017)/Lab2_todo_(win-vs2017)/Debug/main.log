@@ -1,0 +1,36 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(64,32): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(64,37): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(64,42): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(67,30): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(67,35): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(67,40): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(75,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(75,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(75,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(76,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(76,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(76,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(77,35): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(77,40): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(77,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(81,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(81,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(81,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(82,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(82,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(82,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(83,35): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(83,40): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(83,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(136,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(142,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(208,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(208,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(208,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(209,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(493,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(493,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\main.cpp(493,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  main.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab2_todo_(win-vs2017)\Lab2_todo_(win-vs2017)\Debug\main.exe

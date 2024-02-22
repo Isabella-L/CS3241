@@ -1,0 +1,115 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(66,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(66,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(66,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(72,34): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(72,39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(72,44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(376,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(376,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(376,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(804,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(804,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(804,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(805,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(805,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(805,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(806,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(806,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(806,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(858,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(858,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(858,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(881,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(881,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(881,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(882,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(882,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(882,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(916,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(916,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(917,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(917,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(941,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(942,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(943,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(943,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(943,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(972,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(976,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(975,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(974,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(973,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(980,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(980,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(980,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(981,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(981,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(981,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(982,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(982,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(998,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(997,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(996,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(995,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1005,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1004,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1003,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1002,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1012,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1011,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1010,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1009,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1019,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1018,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1017,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1016,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1028,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1027,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1026,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1025,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1032,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1032,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1032,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1033,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1033,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1033,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1034,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1034,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1034,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1076,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1077,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1080,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1085,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1085,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1085,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1086,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1086,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1086,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1086,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1101,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1100,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1099,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1098,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1107,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1106,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1106,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1105,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1115,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1114,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1114,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1113,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1120,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1119,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1119,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1118,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1125,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1124,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1124,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1123,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1130,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1129,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1129,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\main.cpp(1128,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.vcxproj -> C:\Users\isabe\OneDrive\Desktop\cs3241_graphics_local\Lab3_todo_(win-vs2017)\Lab3_todo_(win-vs2017)\Debug\main.exe
